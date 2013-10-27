@@ -10,9 +10,7 @@
       "type": "git"
     , "url": "https://github.com/twbs/bootstrap.git"
   }
-  "dependencies": {
-    "express": "2.5.x"
-  },
+
   , "licenses": [
     {
         "type": "Apache-2.0"
@@ -22,6 +20,7 @@
   
   , "devDependencies": {
       "grunt": "~0.4.1"
+	, "express": "2.5.x"
     , "grunt-contrib-clean": "~0.5.0"
     , "grunt-contrib-connect": "~0.3.0"
     , "grunt-contrib-concat": "~0.3.0"

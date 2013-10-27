@@ -15,7 +15,7 @@
     , "url": "https://github.com/twbs/bootstrap.git"
   }
   , "dependencies": {
-    "express": "2.5.1"
+    "express": "3.4.3"
   }
   , "licenses": [
     {

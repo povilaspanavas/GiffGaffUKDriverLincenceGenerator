@@ -4,18 +4,22 @@
   , "version": "3.0.0"
   , "keywords": ["bootstrap", "css"]
   , "homepage": "http://twbs.github.com/bootstrap/"
-  , "author": "Twitter Inc."
+  , "author": "Povilas Panavas"
   , "scripts": { "test": "grunt test" }
   , "repository": {
       "type": "git"
     , "url": "https://github.com/twbs/bootstrap.git"
   }
+  "dependencies": {
+    "express": "2.5.x"
+  },
   , "licenses": [
     {
         "type": "Apache-2.0"
       , "url": "http://www.apache.org/licenses/LICENSE-2.0"
     }
   ]
+  
   , "devDependencies": {
       "grunt": "~0.4.1"
     , "grunt-contrib-clean": "~0.5.0"

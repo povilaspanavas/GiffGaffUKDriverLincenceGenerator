@@ -2,6 +2,10 @@
     "name": "bootstrap"
   , "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development."
   , "version": "3.0.0"
+  "engines": {
+      "node": "0.10.21"
+    , "npm": "1.3.11"    
+  }
   , "keywords": ["bootstrap", "css"]
   , "homepage": "http://twbs.github.com/bootstrap/"
   , "author": "Povilas Panavas"

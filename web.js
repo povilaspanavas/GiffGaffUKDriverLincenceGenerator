@@ -1,6 +1,6 @@
 ﻿var express = require('express');
 
-var app = express(express.logger());
+var app = express();
 
 app.get('/', function(request, response) {
   var fs = require('fs');
